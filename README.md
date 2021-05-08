@@ -1,6 +1,9 @@
 ## academics.wtf website
 
-See [`academics.wtf`](https://academics.wtf).
+Academics can be full of crap. [academics.wtf](https://academics.wtf) is devoted to helping people
+deal with it.
+
+This repository is the source for the website.
 
 ---
 
