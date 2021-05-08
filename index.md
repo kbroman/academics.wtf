@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: "`academics.wtf`"
+title: academics.wtf
 description: site devoted to supporting academics' survival
 keywords: academics, higher education, universities
 ---
