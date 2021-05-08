@@ -5,7 +5,18 @@ deal with it.
 
 This repository is the source for the website.
 
+### Contributing to the site
+
+- We enourage suggestions for additions, corrections, or other
+  improvements
+- File an [issue](https://github.com/kbroman/academics.wtf/issues) to
+  suggest a change
+- Or make a [pull request](https://github.com/kbroman/academics.wtf/pulls)
+- Or [email us](mailto:karl@academics.wtf)
+
 ---
+
+### License
 
 This web site is licensed under
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
