@@ -13,6 +13,7 @@ This repository is the source for the website.
   suggest a change
 - Or make a [pull request](https://github.com/kbroman/academics.wtf/pulls)
 - Or [email us](mailto:karl@academics.wtf)
+- Contributors and maintainers must follow the [Code of Conduct](CODE_OF_CONDUCT.md)
 
 ---
 
