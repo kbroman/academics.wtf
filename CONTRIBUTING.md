@@ -1,6 +1,6 @@
 ### Contributing to the site
 
-- We enourage suggestions for additions, corrections, or other
+- We encourage suggestions for additions, corrections, or other
   improvements
 - File an [issue](https://github.com/kbroman/academics.wtf/issues) to
   suggest a change
