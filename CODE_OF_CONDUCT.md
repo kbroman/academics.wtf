@@ -18,7 +18,8 @@ Code of Conduct. Project maintainers who do not follow the Code of Conduct may b
 from the project team.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by
-opening an issue or contacting [Karl Broman](mailto:karl@academics.wtf).
+opening an issue or contacting [Karl Broman](mailto:karl@academics.wtf) or other
+contributors.
 
 This Code of Conduct is adapted from the [Contributor
 Covenant](https://www.contributor-covenant.org), version 1.0.0, available at
