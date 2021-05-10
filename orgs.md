@@ -5,6 +5,11 @@ tagline: that support academics
 description: organizations that support academics
 ---
 
+- [Open Post Academics](https://openpostac.org), "international,
+  interdisciplinary, collaborative, peer-led community" that
+  "collaboratively creates tools to empower PhDs to build successful
+  careers outside the academy."
+
 - [American Association of University Professors (AAUP)](https://www.aaup.org/),
   _US organization advocating for academic freedom and shared
   governance, establishing higher
