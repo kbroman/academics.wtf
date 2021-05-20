@@ -30,3 +30,8 @@ description: resources for surviving academics
   Baxter](https://www.danforthcenter.org/our-work/principal-investigators/ivan-baxter/)
   "dig beneath the surface to understand how scientific publications
   are created."_
+
+
+### Blogs
+
+- [Dynamic Ecology](https://dynamicecology.wordpress.com/best-of-dynamic-ecology/)
