@@ -8,7 +8,10 @@ description: crap done to and by academics
 Academics can be so full of crap, including exploitation, racism, and
 sexual harrassment.
 
-- [darmouth accuses 17 medical students of cheating based on sketchy
+- [UNC Board of Trustees denies tenure to award-winning journalist
+  Nikole Hannah-Jones](https://www.nytimes.com/2021/05/19/business/media/nikole-hannah-jones-unc.html)
+
+- [Darmouth accuses 17 medical students of cheating based on sketchy
   computer surveillance](https://www.nytimes.com/2021/05/09/technology/dartmouth-geisel-medical-cheating.html)
 
 - [math lecturer exploited for >30 years](http://kbroman.org/blog/2021/05/06/wtf-uw-1/)
