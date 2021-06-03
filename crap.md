@@ -9,17 +9,29 @@ Academics can be so full of crap, including exploitation, racism, and
 sexual harrassment.
 
 - [UNC Board of Trustees denies tenure to award-winning journalist
-  Nikole Hannah-Jones](https://www.nytimes.com/2021/05/19/business/media/nikole-hannah-jones-unc.html)
+  Nikole Hannah-Jones](https://www.nytimes.com/2021/05/19/business/media/nikole-hannah-jones-unc.html),
+  _May, 2021_
 
 - [Darmouth accuses 17 medical students of cheating based on sketchy
-  computer surveillance](https://www.nytimes.com/2021/05/09/technology/dartmouth-geisel-medical-cheating.html)
+  computer
+  surveillance](https://www.nytimes.com/2021/05/09/technology/dartmouth-geisel-medical-cheating.html),
+  _May, 2021_
 
-- [math lecturer exploited for >30 years](http://kbroman.org/blog/2021/05/06/wtf-uw-1/)
+- [math lecturer exploited for >30
+  years](http://kbroman.org/blog/2021/05/06/wtf-uw-1/),
+  _Oct, 2020_
 
-- [faculty job interviews gone bad](https://www.insidehighered.com/blogs/globalhighered/faculty-job-interviews-gone-bad)
+- [faculty member suspended for toxic behavior but uses time to work at NSF](https://madison.com/wsj/news/local/education/university/uw-madison-failed-to-inform-federal-agency-of-abusive-professors-conduct-unpaid-leave/article_da46b852-8aeb-50c3-9673-c2ac6da3818f.html),
+  _ Oct, 2019_
 
-- [ranking faculty based on their institution](http://kbroman.org/blog/2012/09/08/how-to-evaluate-faculty/)
+- [faculty job interviews gone
+  bad](https://www.insidehighered.com/blogs/globalhighered/faculty-job-interviews-gone-bad),
+  _Dec, 2018_
 
-- [microaggressions and "these guys"](http://www.amelia.mn/blog/conferences/2017/12/19/On-Microaggressions.html)
+- [microaggressions and "these
+  guys"](http://www.amelia.mn/blog/conferences/2017/12/19/On-Microaggressions.html),
+  _Dec, 2017_
 
-- [faculty member suspended for toxic behavior but uses time to work at NSF](https://madison.com/wsj/news/local/education/university/uw-madison-failed-to-inform-federal-agency-of-abusive-professors-conduct-unpaid-leave/article_da46b852-8aeb-50c3-9673-c2ac6da3818f.html)
+- [ranking faculty based on their
+  institution](http://kbroman.org/blog/2012/09/08/how-to-evaluate-faculty/),
+  _Sept, 2012_
