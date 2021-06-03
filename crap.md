@@ -8,6 +8,10 @@ description: crap done to and by academics
 Academics can be so full of crap, including exploitation, racism, and
 sexual harrassment.
 
+- [appalling handling at U Michigan of serial harassment by CS
+  professor](https://www.michigandaily.com/news/daily-investigation-finds-divergence-in-u-m-outside-organizations-handling-of-allegations-against-cse-professor/),
+  _May, 2021_
+
 - [UNC Board of Trustees denies tenure to award-winning journalist
   Nikole Hannah-Jones](https://www.nytimes.com/2021/05/19/business/media/nikole-hannah-jones-unc.html),
   _May, 2021_
