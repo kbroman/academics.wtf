@@ -26,7 +26,7 @@ sexual harrassment.
   _Oct, 2020_
 
 - [faculty member suspended for toxic behavior but uses time to work at NSF](https://madison.com/wsj/news/local/education/university/uw-madison-failed-to-inform-federal-agency-of-abusive-professors-conduct-unpaid-leave/article_da46b852-8aeb-50c3-9673-c2ac6da3818f.html),
-  _ Oct, 2019_
+  _Oct, 2019_
 
 - [faculty job interviews gone
   bad](https://www.insidehighered.com/blogs/globalhighered/faculty-job-interviews-gone-bad),
