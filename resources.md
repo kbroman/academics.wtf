@@ -35,3 +35,8 @@ description: resources for surviving academics
 ### Blogs
 
 - [Dynamic Ecology](https://dynamicecology.wordpress.com/best-of-dynamic-ecology/)
+
+
+### Books
+
+- [Leaving Academia: A Practical Guide](https://amzn.to/3EVrkbx)
