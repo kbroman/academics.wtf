@@ -8,6 +8,9 @@ description: crap done to and by academics
 Academics can be so full of crap, including exploitation, racism, and
 sexual harrassment.
 
+- [U Florida faculty pressured to change course syllabi and destroy COVID-19 data](https://www.tampabay.com/news/education/2021/12/06/uf-researchers-felt-pressure-to-destroy-covid-19-data-faculty-report-says/)
+  _Dec, 2021_
+
 - [U Florida bars faculty from testifying against state
   government](https://www.washingtonpost.com/nation/2021/10/30/florida-voting-rights-desantis-lawsuit)
   _Oct, 2021_
