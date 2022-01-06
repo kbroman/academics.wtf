@@ -11,3 +11,6 @@ tagline: stories about leaving academics
 - [_Ted Laderas_](https://laderast.github.io/)
   [explains his move from faculty member at OHSU to bioinformatics
   trainer at DNANexus](https://laderast.github.io/posts/2021-04-29-moving-on-and-upwards/)
+
+- [_Austin Z. Henley_](https://austinhenley.com/)
+  [explains why he leaves academia to industry](https://austinhenley.com/blog/leavingacademia.html)
