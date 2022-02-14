@@ -8,6 +8,12 @@ description: crap done to and by academics
 Academics can be so full of crap, including exploitation, racism, and
 sexual harrassment.
 
+- [38 Harvard faculty back their colleague, a serial harasser, over graduate students](https://www.thecrimson.com/article/2022/2/4/comaroff-sanctions-open-letter/)
+  _Feb, 2022_
+
+- [U Wisconsin hires corporate lawyer as its system president, experienced in mergers and acquisitions but not education](https://madison.com/article_c61600c6-880d-5eee-a30d-b212f418c285.html)
+  _Jan, 2022_
+
 - [U Florida faculty pressured to change course syllabi and destroy COVID-19 data](https://www.tampabay.com/news/education/2021/12/06/uf-researchers-felt-pressure-to-destroy-covid-19-data-faculty-report-says/)
   _Dec, 2021_
 
