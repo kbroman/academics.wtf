@@ -8,6 +8,9 @@ description: crap done to and by academics
 Academics can be so full of crap, including exploitation, racism, and
 sexual harassment.
 
+- [Georgia Tech faculty human resources gone wild](https://gregspecter.wordpress.com/2022/02/18/my-georgia-tech-experience/)
+  _Feb, 2022_
+
 - [38 Harvard faculty back their colleague, a serial harasser, over graduate students](https://www.thecrimson.com/article/2022/2/4/comaroff-sanctions-open-letter/)
   _Feb, 2022_
 
