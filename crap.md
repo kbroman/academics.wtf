@@ -8,6 +8,10 @@ description: crap done to and by academics
 Academics can be so full of crap, including exploitation, racism, and
 sexual harassment.
 
+- [Sonny Perdue named Chancellor of Georgia's university
+  system](https://www.gpb.org/news/2022/03/02/sonny-perdue-officially-gets-university-system-chancellor-job)
+  _Mar, 2022_
+
 - [Georgia Tech faculty human resources gone wild](https://gregspecter.wordpress.com/2022/02/18/my-georgia-tech-experience/)
   _Feb, 2022_
 
