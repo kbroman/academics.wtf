@@ -8,6 +8,10 @@ description: crap done to and by academics
 Academics can be so full of crap, including exploitation, racism, and
 sexual harassment.
 
+- [UW-Whitewater interim Chancellor resigned because he could no longer
+  recommend the job to others](https://madison.com/news/local/education/university/uw-whitewater-chancellors-resignation-linked-to-free-speech-survey/article_7e6e13cd-9b85-5e0d-a951-a9bd755a46a3.html)
+  _Apr, 2022_
+
 - [Sonny Perdue named Chancellor of Georgia's university
   system](https://www.gpb.org/news/2022/03/02/sonny-perdue-officially-gets-university-system-chancellor-job)
   _Mar, 2022_
