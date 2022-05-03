@@ -8,6 +8,11 @@ description: crap done to and by academics
 Academics can be so full of crap, including exploitation, racism, and
 sexual harassment.
 
+- [NYU School of Medicine seeking to hire David Sabatini, who had been forced
+  out of 3 institutions for sexual
+  misconduct](https://www.science.org/content/article/nyu-may-hire-biologist-pushed-mit-whitehead-sexual-misconduct)
+  _Apr, 2022_
+
 - [UW-Whitewater interim Chancellor resigned because he could no longer
   recommend the job to others](https://madison.com/news/local/education/university/uw-whitewater-chancellors-resignation-linked-to-free-speech-survey/article_7e6e13cd-9b85-5e0d-a951-a9bd755a46a3.html)
   _Apr, 2022_
