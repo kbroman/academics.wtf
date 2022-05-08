@@ -12,6 +12,8 @@ deal with it.
 
 - [moving on](moving_on.html) _stories about leaving academics_
 
+- [overheard](overheard.html) _stupid things academics said_
+
 - [organizations](orgs.html) _that support academics_
 
 - [resources](resources.html) _including books, websites, blogs, and podcasts_
