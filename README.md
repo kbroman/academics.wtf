@@ -1,9 +1,9 @@
 ## academics.wtf website
 
-Academics can be full of crap. [academics.wtf](https://academics.wtf) is devoted to helping people
-deal with it.
+Academics can be full of crap. `academics.wtf` was devoted to helping people
+deal with it, *though we are now letting the domain expire*.
 
-This repository is the source for the website.
+This repository was the source for the website.
 
 ### Contributing to the site
 
