@@ -1,9 +1,10 @@
 ## academics.wtf website
 
 Academics can be full of crap. `academics.wtf` was devoted to helping people
-deal with it, *though we are now letting the domain expire*.
+deal with it. *We let the domain expire*, but it is still viewable at 
+<https://kbroman.org/academics.wtf>.
 
-This repository was the source for the website.
+This repository is the source for the website.
 
 ### Contributing to the site
 
